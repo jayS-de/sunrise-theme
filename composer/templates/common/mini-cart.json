@@ -1,0 +1,11 @@
+{
+	"totalItems" : 12,
+	"totalPrice" : "117,00 €",
+    "lineItems" : {
+        "list" : [
+            { "$ref" : "../checkout/line-item.json" },
+            { "$ref" : "../checkout/line-item.json" },
+            { "$ref" : "../checkout/line-item.json" }
+        ]
+    }
+}
