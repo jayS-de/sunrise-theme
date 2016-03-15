@@ -1,15 +1,17 @@
 <!-- start catalog/home/banner-bottom-right-3.hbs -->
 <div class="aspect-ratio aspect-ratio--8to3">
   <picture>
-    <source srcset="{{@root.meta.assetsPath}}img/woman_large-8to3-6a48ee87a497e36bd2dbd8cb4cde5403.jpg" media="(min-width: 1200px)">
-    <source srcset="{{@root.meta.assetsPath}}img/woman_medium-8to3-7f2b14c80ce1d9f0aa073f6e206d478e.jpg" media="(min-width: 768px)">
-    <img src="{{@root.meta.assetsPath}}img/woman_small-8to3-e51fc3ed99d31378df85a64cd9bd1142.jpg" class="img-responsive" alt="Banner image">
+    <source srcset="{{cms "banner:homeBottomRight3.imageLarge"}}" media="(min-width: 1200px)">
+    <source srcset="{{cms "banner:homeBottomRight3.imageMedium"}}" media="(min-width: 768px)">
+    <img src="{{cms "banner:homeBottomRight3.imageSmall"}}" class="img-responsive">
   </picture>
 </div>
 
 <div class="banner-text">
-  <h4 class="banner-title">{{i18n "home:bannerThree.fourth.title"}}</h4>
-  <p class="banner-paragraph">{{i18n "home:bannerThree.fourth.subtitle"}}</p>
-  <a href="{{content.banners.bannerThree.fourth.href}}" class="btn banner-btn">{{i18n "home:bannerThree.fourth.btn"}}</a>
+  <h4 class="banner-title">{{{cms "banner:homeBottomRight3.title"}}}</h4>
+  <p class="banner-paragraph">{{{cms "banner:homeBottomRight3.subtitle"}}}</p>
+  <a href="{{cms "banner:homeBottomRight3.linkHref"}}" class="btn banner-btn">
+    {{cms "banner:homeBottomRight3.linkText"}}
+  </a>
 </div>
 <!-- end catalog/home/banner-bottom-right-3.hbs -->
