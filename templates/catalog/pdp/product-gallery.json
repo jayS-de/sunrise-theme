@@ -1,0 +1,20 @@
+{
+	"list" : [
+		{
+			"thumbImage" : "../../assets/img/blue-jacket-26213fa1ad2c5e60adcba7301bcd048f.jpg",
+			"bigImage" : "../../assets/img/blue-jacket-26213fa1ad2c5e60adcba7301bcd048f.jpg"
+		},
+		{
+			"thumbImage" : "../../assets/img/blue-shirt-5bdf49d3ec20b6fdddcf3e6a70798068.jpg",
+			"bigImage" : "../../assets/img/blue-shirt-5bdf49d3ec20b6fdddcf3e6a70798068.jpg"
+		},
+		{
+			"thumbImage" : "../../assets/img/blue-jacket-26213fa1ad2c5e60adcba7301bcd048f.jpg",
+			"bigImage" : "../../assets/img/blue-jacket-26213fa1ad2c5e60adcba7301bcd048f.jpg"
+		},
+		{
+			"thumbImage" : "../../assets/img/blue-shirt-5bdf49d3ec20b6fdddcf3e6a70798068.jpg",
+			"bigImage" : "../../assets/img/blue-shirt-5bdf49d3ec20b6fdddcf3e6a70798068.jpg"
+		}
+	]
+}
