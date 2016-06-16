@@ -25,7 +25,7 @@
           },
           {
             "label": "Pre-payment",
-            "image": "img/blank-img-477be09c5f2a8e3885f4af8df5e4be92.jpg",
+            "image": "img/blank-img-751459b54b2d093a64bf2a331a8c82a0.jpg",
             "value": "prepaid",
             "selected": true
           }
@@ -338,8 +338,14 @@
       "myAddressBook": {
         "href": "my-account-address-book.html"
       },
-      "editMyAddressBook": {
-        "href": "my-account-edit-address.html"
+      "myAddressBookAddAddress": {
+        "href": "my-account-new-address.html"
+      },
+      "myAddressBookAddAddressSubmit": {
+        "href": "my-account-address-book.html"
+      },
+      "myAddressBookEditAddressSubmit": {
+        "href": "my-account-address-book.html"
       },
       "checkoutConfirmation": {
         "href": "checkout-confirmation.html"
