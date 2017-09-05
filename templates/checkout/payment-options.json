@@ -1,0 +1,22 @@
+{
+    "list" : [
+        {
+            "label" : "Credit Card",
+            "image" : "img/payment-option-card-911d1826fde4546025462fc13875e2a0.gif",
+            "value" : "credit-card",
+            "selected" : false
+        },
+        {
+            "label" : "PayPal",
+            "image" : "img/payment-option-paypal-d00850532a79141d525c9914bd43cf98.png",
+            "value" : "paypal",
+            "selected" : false
+        },
+        {
+            "label" : "Pre-payment",
+            "image" : "img/blank-img-12d2868346b957c6ff9216bff260adb2.jpg",
+            "value" : "prepaid",
+            "selected" : true
+        }
+    ]
+}
